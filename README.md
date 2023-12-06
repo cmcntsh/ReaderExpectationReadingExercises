@@ -76,7 +76,7 @@ I've created a short list of readings and quick exercises to help someone get mo
 
 ## Assignment Formatting
 
-This assignment format is intended to be used for all of the assignments. An example assignment is posted in the repository.
+This assignment format is intended to be used for all of the analysis assignments. An example assignment is posted in the repository.
 
 * Put your assignment response in a Word document.
 * Use APA level 1 headings for sections of the assignment. Use the following sections:
