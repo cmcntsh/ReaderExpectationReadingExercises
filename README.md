@@ -1,4 +1,4 @@
-# Reader Expectation Approach Introductory Readings and Exercises
+# Reader Expectation Approach to Writing Introductory Readings and Exercises
 
 I've created a short list of readings and quick exercises to help someone get more familiar with the basics. I've formatted these as weekly assignments as part of an MS in Nursing Informatics course.
 
