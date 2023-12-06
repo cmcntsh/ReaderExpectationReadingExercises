@@ -1,6 +1,6 @@
 # Reader Expectation Approach to Writing Introductory Readings and Exercises
 
-I've created a short list of readings and quick exercises to help someone get more familiar with the basics. I've formatted these as weekly assignments as part of an MS in Nursing Informatics course.
+I've created a short list of readings and quick exercises to help someone get more familiar with the basics. I've formatted these as weekly assignments as part of an MS in Nursing Informatics course. A YouTube playlist is available to help introduce the assignments and demonstrate how to create the analysis assignment template. https://www.youtube.com/watch?v=2nDEDs-BgEQ&list=PLJ1Hw7KPHJnoY8KOWTMcLT4KcCjQmUtYB
 
 ## Week 1
 
