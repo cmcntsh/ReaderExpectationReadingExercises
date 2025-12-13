@@ -10,6 +10,8 @@ I've created a short list of readings and quick exercises to help someone get mo
 
 ## Week 2
 
+![Stress Position](GopenLit2StressPosition.png)
+
 * Read: #2 The Importance of Stress: Indicating the Most Important Words in a Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf
   * Good writing depends less on word choice and more on word placement—specifically, that the most important information in a sentence should appear in a “stress position” (just before a period, colon, or semicolon) so readers naturally give it emphasis and interpret the writer’s meaning correctly.
 * Assignment: Select a paragraph from any of the readings this week with at least five sentences (or two paragraphs that total at least five sentences), and highlight what you think is the most important part of each sentence. (Preferably select a paragraph that makes a point or mentions something you think is important.) Where is the paragraph located in the document? (beginning, middle, end, or name of specific section) How many sentences are in the paragraph? How many of the important parts you highlighted are in a stress position as defined by George Gopen? (Stress positions are episodes of full syntactic closure next to a period, a semicolon, or a colon.) Suggest a way to change the paragraph or sentence to align with the goal described in the writing article. (If all the parts of the paragraph already meet the goal, then state that.) Share your analysis paper in the discussion.
