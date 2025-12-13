@@ -106,6 +106,8 @@ Download audio podcast: ![Five Sentence Lie Podcast](https://github.com/cmcntsh/
 
 ![Three Sentence Issue](GopenLit20ThreeSentIssue.png)
 
+Download audio podcast: ![Three Sentence Issue Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Three_Sentence_Issues_in_Professional_Writing.m4a)
+
 * Read: #20 What's at Issue? The Construction of the English Paragraph, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf
   * The issue of a paragraph must be stated up front to guide the reader. In sophisticated professional writing, it often requires more than a single sentence to be adequately expressed, and readers will accept a well-constructed issue that spans one, two, or even three sentences. However, the issue should never spill over into a fourth sentence, as readers typically lose hope, and coherence is lost.
 
