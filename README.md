@@ -67,7 +67,7 @@ Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/Re
 
 ## Week 8
 
-![Clauses](GopenLit21MainSupClausses.png)
+![Clauses](GopenLit21MainSupClauses.png)
 
 * Read: #12 The #2 Problem in Legal Writing: Solved https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf
   * The number one problem in writing is failure to place the most important information in the sentence's stress position (at points of syntactic closure marked by periods, colons, or semicolons). The number two problem, which is a subset of the first, is that writers typically structure sentences by starting with a main clause and ending with a weaker qualifying clause, which confuses readers about which information to emphasize most.
