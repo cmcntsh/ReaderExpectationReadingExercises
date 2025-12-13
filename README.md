@@ -113,6 +113,8 @@ Download audio podcast: ![Three Sentence Issue Podcast](https://github.com/cmcnt
 
 ![Connect Sentences](GopenLit21SentBackLink.png)
 
+Download audio podcast: [Clear Prose Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/How_to_Write_Perfectly_Clear_Prose.m4a)
+
 * Read: #21 Connectivity: The Construction of the English Paragraph, Part III https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_21_connectivity.pdf
   * Paragraph coherence is achieved by controlling the reader's interpretive journey by making sure each sentence connects smoothly to its neighbors. This control is accomplished by leveraging three crucial reader expectations: placing the "whose story" in the subject position, emphasizing the material in the stress position (at the end of a clause or sentence), and providing an explicit link backward to the preceding sentence as soon as possible.
 * Assignment: Select a paragraph from any of the readings this week with at least five sentences (or two paragraphs that total at least five sentences) and highlight the issue of the paragraph. (Preferably select a paragraph that makes a point or mentions something you think is important.) Where is the paragraph located in the document? (beginning, middle, end, or name of specific section) How many sentences were in the paragraph? How many sentences were part of the issue? Where were they located in the paragraph? Suggest a way to change the paragraph or sentence to align with the goal described in the writing article. (If all the parts of the paragraph already meet the goal, then state that.) Share your analysis paper in the discussion.
