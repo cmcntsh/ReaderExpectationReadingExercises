@@ -99,6 +99,8 @@ Download audio podcast: ![Backward Link Podcast](https://github.com/cmcntsh/Read
 
 ![Paragraph Issue and Point](GopenLit19ParagIssuePoint.png)
 
+Download audio podcast: ![Five Sentence Lie Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Five-Sentence_Lie_and_Professional_Writing.zip)
+
 * Read: #19 What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
   * The traditional five-sentence "topic sentence" paragraph model is inadequate for professional writing. Instead, a paragraph should begin with a clear statement of the issue (what the paragraph is about) and strategically place the point (why the paragraph was written) either immediately after the issue or at the end of the discussion, where readers expect to find it.
 
