@@ -29,6 +29,8 @@ Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/Re
 
 ![Action in Verb](GopenLit3ActionVerb.png)
 
+Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Put_the_Action_in_the_Verb.m4a)
+
 * Read: #3 Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
   * Writers should place the true actions of a sentence in its verbs, not in nouns (nominalizations) or other parts of speech, because readers naturally look to verbs to understand what is happening—doing so makes writing clearer, stronger, and easier to comprehend.
 * Assignment: Select a paragraph from any of the readings this week with at least five sentences (or two paragraphs that total at least five sentences), and highlight what you think is the main action the author is trying to convey in each sentence. (Preferably select a paragraph that makes a point or mentions something you think is important.) Where is the paragraph located in the document? (beginning, middle, end, or name of specific section) How many sentences are in the paragraph? How many of the main actions you highlighted are conveyed by a strong verb as described by George Gopen? (George Gopen defines a strong verb as a verb that conveys the main action of the sentence intended by the author.) Suggest a way to change the paragraph or sentence to align with the goal described in the writing article. (If all the parts of the paragraph already meet the goal, then state that.) Share your analysis paper in the discussion.
