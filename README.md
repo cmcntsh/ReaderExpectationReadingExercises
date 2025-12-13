@@ -89,6 +89,8 @@ Download audio podcast: ![Don't End with Weak Clause Podcast](https://github.com
 
 ![Link Back](GopenLit18LinkBack.png)
 
+Download audio podcast: ![Backward Link Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Backward_Linking_Moves_Your_Reader_Forward.m4a)
+
 * Read: #18 The Progress of Thought: To Move Forward, Link Backward https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_18_the_progress_of_thought.pdf
   * Clear writing requires a new sentence to explicitly link backward to the preceding sentence as soon as possible, guiding the reader's thought process. This backward link should target either the grammatical subject (the "whose story" position) or the end of the previous sentence (the "stress position") to maintain the flow of thought and prevent misinterpretation.
 * Assignment: Select a paragraph from any of the readings this week with at least five sentences (or two paragraphs that total at least five sentences) and highlight the part of the sentence that links back to the previous sentence. (Preferably select a paragraph that makes a point or mentions something you think is important.) Where is the paragraph located in the document? (beginning, middle, end, or name of specific section) How many sentences are in the paragraph? How many sentences have a link back to the previous sentence? How many sentences DO NOT link back to the previous sentence? Suggest a way to change the paragraph or sentence to align with the goal described in the writing article. (If all the parts of the paragraph already meet the goal, then state that.) Share your analysis paper in the discussion.
