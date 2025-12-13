@@ -113,7 +113,7 @@ Download audio podcast: ![Three Sentence Issue Podcast](https://github.com/cmcnt
 
 ![Connect Sentences](GopenLit21SentBackLink.png)
 
-Download audio podcast: [Clear Prose Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/How_to_Write_Perfectly_Clear_Prose.m4a)
+Download audio podcast: ![Clear Prose Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/How_to_Write_Perfectly_Clear_Prose.m4a)
 
 * Read: #21 Connectivity: The Construction of the English Paragraph, Part III https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_21_connectivity.pdf
   * Paragraph coherence is achieved by controlling the reader's interpretive journey by making sure each sentence connects smoothly to its neighbors. This control is accomplished by leveraging three crucial reader expectations: placing the "whose story" in the subject position, emphasizing the material in the stress position (at the end of a clause or sentence), and providing an explicit link backward to the preceding sentence as soon as possible.
@@ -122,6 +122,8 @@ Download audio podcast: [Clear Prose Podcast](https://github.com/cmcntsh/ReaderE
 ## Week 11
 
 ![Find Paragraph Point](GopenLit22ParaPoint.png)
+
+Download audio podcast: ![Issue and Point Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Issue_Point_and_Paragraph_Structure.zip)
 
 * Read: #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
   * Readers expect to find a paragraph's point either at the end of the issue statement or at the end of the discussion section—essentially just before the discussion begins or just as it concludes. This challenges the traditional "topic sentence" approach by recognizing that sophisticated writing requires more flexible paragraph structures, in which the issue (what the paragraph concerns) and the point (why it was written) can be strategically placed in different locations depending on the complexity of the thought being developed.
