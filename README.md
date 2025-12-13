@@ -39,6 +39,8 @@ Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpecta
 
 ![Whose Story](GopenLit4WhoseStory.png)
 
+Download audio podcast: ![Focus of Story Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Subject_Is_Your_Narrative_Protagonist.m4a)
+
 * Read: #4 Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
   * Readers naturally understand a sentence as being the story of its grammatical subject, so writers should deliberately choose the subject of each main clause to control whose perspective or story the reader perceives—because clarity depends more on sentence structure and word order than on length.
 * Assignment: Select a paragraph from any of the readings this week with at least five sentences (or two paragraphs that total at least five sentences), and highlight who/what you think the story is about in each sentence. (Preferably select a paragraph that makes a point or mentions something you think is important.) Where is the paragraph located in the document? (beginning, middle, end, or name of specific section) How many sentences are in the paragraph? How many of the main characters of the story you highlighted are contained in the first main clause of the sentence as described by George Gopen? (George Gopen defines a main clause as having a subject and a verb and can stand alone as a sentence.) Suggest a way to change the paragraph or sentence to align with the goal described in the writing article. (If all the parts of the paragraph already meet the goal, then state that.) Share your analysis paper in the discussion.
