@@ -69,6 +69,8 @@ Download audio podcast: ![Subject Verb Separation Podcast](https://github.com/cm
 
 ![Passive Voice](GopenLit16PassiveVoice.png)
 
+Download audio podcast: ![Passive Voice Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Passive_Voice_Is_Not_Bad_Advice.m4a)
+
 * Read: #10 Why the Passive Voice Should Be Used and Appreciated - Not Avoided https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf
   * The passive voice should not be avoided; rather, it is a crucial tool, especially for sophisticated prose, because it allows writers to strategically place information in structural locations (subject position for "whose story," and stress positions for emphasis) where readers expect to find it for clear interpretation.
 * Assignment: Select a paragraph from any of the readings this week with at least five sentences (or two paragraphs that total at least five sentences), and highlight the verb in each sentence. (Preferably select a paragraph that makes a point or mentions something you think is important.) Where is the paragraph located in the document? (beginning, middle, end, or name of specific section) How many sentences are in the paragraph? Is each sentence active or passive? Suggest a way to change the paragraph or sentence to align with the goal described in the writing article. (If all the parts of the paragraph already meet the goal, then state that.) Share your analysis paper in the discussion.
