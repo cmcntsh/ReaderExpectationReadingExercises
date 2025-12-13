@@ -49,6 +49,8 @@ Download audio podcast: ![Focus of Story Podcast](https://github.com/cmcntsh/Rea
 
 ![Control Agency](GopenLit7ControlAgency.png)
 
+Download audio podcast: ![Control Agency Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Hiding_Accountability_With_Nominalization.zip)
+
 * Read: #7 Who Done It? Controlling Agency in Legal Writing, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf
   * Writers must clearly express who is doing what by putting actions in verbs and agents in subjects, rather than hiding them in abstract nouns (nominalizations)—because doing so makes writing clearer.
 * Assignment: Select a paragraph from any of the readings this week with at least five sentences (or two paragraphs that total at least five sentences), and highlight what you think are the main actions the author is trying to convey in each sentence. (Preferably select a paragraph that makes a point or mentions something you think is important.) Where is the paragraph located in the document? (beginning, middle, end, or name of specific section) How many sentences are in the paragraph? How many main actions are in the paragraph? How many of the main actions of the sentences you highlighted are by nominalizations as described by George Gopen? (George Gopen defines a nominalization as a verb turned into a noun.) Suggest a way to change the paragraph or sentence to align with the goal described in the writing article. (If all the parts of the paragraph already meet the goal, then state that.) Share your analysis paper in the discussion.
