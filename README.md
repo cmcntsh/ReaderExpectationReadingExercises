@@ -2,6 +2,12 @@
 
 I've created a short list of readings and quick exercises to help someone get more familiar with the basics. I've formatted these as weekly assignments as part of an MS in Nursing Informatics course. A YouTube playlist is available to help introduce the assignments and demonstrate how to create the analysis assignment template. https://www.youtube.com/watch?v=2nDEDs-BgEQ&list=PLJ1Hw7KPHJnoY8KOWTMcLT4KcCjQmUtYB
 
+2025 Update: Here is a prompt to generate more writing exercise ideas based on the Gopen articles. Upload one of the PDF files to ChatGPT, and run the prompt below.
+
+```
+I'm trying to help graduate students improve scholarly and academic writing by having them learn principles taught by George Gopen. Besides having them read this article, what are learning exercises students could do to learn to use the concepts taught in the article? What would be most effective?
+```
+
 ## Week 1
 
 * Read: #1 A New Approach to Legal Writing https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_1_introduction.pdf
