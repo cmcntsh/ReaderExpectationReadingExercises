@@ -16,7 +16,7 @@ I'm trying to help graduate students improve scholarly and academic writing by h
 
 ## Week 2
 
-![Stress Position](/infographics/GopenLit2StressPosition.png)
+![Stress Position](infographics/GopenLit2StressPosition.png)
 
 Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Writing_How_You_Speak_Is_Sabotage.mp3)
 
