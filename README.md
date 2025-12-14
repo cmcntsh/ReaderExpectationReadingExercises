@@ -16,9 +16,9 @@ I'm trying to help graduate students improve scholarly and academic writing by h
 
 ## Week 2
 
-![Stress Position](infographics/GopenLit2StressPosition.png)
+![Stress Position](/infographics/GopenLit2StressPosition.png)
 
-Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Writing_How_You_Speak_Is_Sabotage.mp3)
+Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Writing_How_You_Speak_Is_Sabotage.mp3)
 
 * Read: #2 The Importance of Stress: Indicating the Most Important Words in a Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf
   * Good writing depends less on word choice and more on word placement—specifically, that the most important information in a sentence should appear in a “stress position” (just before a period, colon, or semicolon) so readers naturally give it emphasis and interpret the writer’s meaning correctly.
@@ -27,9 +27,9 @@ Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/Re
 
 ## Week 3
 
-![Action in Verb](infographics/GopenLit3ActionVerb.png)
+![Action in Verb](/infographics/GopenLit3ActionVerb.png)
 
-Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Put_the_Action_in_the_Verb.m4a)
+Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Put_the_Action_in_the_Verb.m4a)
 
 * Read: #3 Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
   * Writers should place the true actions of a sentence in its verbs, not in nouns (nominalizations) or other parts of speech, because readers naturally look to verbs to understand what is happening—doing so makes writing clearer, stronger, and easier to comprehend.
@@ -37,9 +37,9 @@ Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpecta
 
 ## Week 4
 
-![Whose Story](infographics/GopenLit4WhoseStory.png)
+![Whose Story](/infographics/GopenLit4WhoseStory.png)
 
-Download audio podcast: ![Focus of Story Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Subject_Is_Your_Narrative_Protagonist.m4a)
+Download audio podcast: ![Focus of Story Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/The_Subject_Is_Your_Narrative_Protagonist.m4a)
 
 * Read: #4 Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
   * Readers naturally understand a sentence as being the story of its grammatical subject, so writers should deliberately choose the subject of each main clause to control whose perspective or story the reader perceives—because clarity depends more on sentence structure and word order than on length.
@@ -47,9 +47,9 @@ Download audio podcast: ![Focus of Story Podcast](https://github.com/cmcntsh/Rea
 
 ## Week 5
 
-![Control Agency](infographics/GopenLit7ControlAgency.png)
+![Control Agency](/infographics/GopenLit7ControlAgency.png)
 
-Download audio podcast: ![Control Agency Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Hiding_Accountability_With_Nominalization.zip)
+Download audio podcast: ![Control Agency Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Hiding_Accountability_With_Nominalization.zip)
 
 * Read: #7 Who Done It? Controlling Agency in Legal Writing, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf
   * Writers must clearly express who is doing what by putting actions in verbs and agents in subjects, rather than hiding them in abstract nouns (nominalizations)—because doing so makes writing clearer.
@@ -57,9 +57,9 @@ Download audio podcast: ![Control Agency Podcast](https://github.com/cmcntsh/Rea
   
 ## Week 6
 
-![Subject Verb Separation](infographics/GopenLit8SubVerbSeparation.png)
+![Subject Verb Separation](/infographics/GopenLit8SubVerbSeparation.png)
 
-Download audio podcast: ![Subject Verb Separation Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Fixing_the_Hidden_Cost_of_Grammar_Structure.m4a)
+Download audio podcast: ![Subject Verb Separation Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Fixing_the_Hidden_Cost_of_Grammar_Structure.m4a)
 
 * Read: #8 How to Overburden Your Reader; Separate Your Subject from Your Verb https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf
   * Separating a grammatical subject from its verb with intervening material overburdens the reader because it interrupts the expectation that the subject will be followed almost immediately by its verb. He recommends having four words or fewer between the subject and the verb.
@@ -67,9 +67,9 @@ Download audio podcast: ![Subject Verb Separation Podcast](https://github.com/cm
 
 ## Week 7
 
-![Passive Voice](infographics/GopenLit16PassiveVoice.png)
+![Passive Voice](/infographics/GopenLit16PassiveVoice.png)
 
-Download audio podcast: ![Passive Voice Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Passive_Voice_Is_Not_Bad_Advice.m4a)
+Download audio podcast: ![Passive Voice Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/The_Passive_Voice_Is_Not_Bad_Advice.m4a)
 
 * Read: #10 Why the Passive Voice Should Be Used and Appreciated - Not Avoided https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf
   * The passive voice should not be avoided; rather, it is a crucial tool, especially for sophisticated prose, because it allows writers to strategically place information in structural locations (subject position for "whose story," and stress positions for emphasis) where readers expect to find it for clear interpretation.
@@ -77,9 +77,9 @@ Download audio podcast: ![Passive Voice Podcast](https://github.com/cmcntsh/Read
 
 ## Week 8
 
-![Clauses](infographics/GopenLit21MainSupClauses.png)
+![Clauses](/infographics/GopenLit21MainSupClauses.png)
 
-Download audio podcast: ![Don't End with Weak Clause Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Structural_Weight_Hides_Your_Main_Point.m4a)
+Download audio podcast: ![Don't End with Weak Clause Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Structural_Weight_Hides_Your_Main_Point.m4a)
 
 * Read: #12 The #2 Problem in Legal Writing: Solved https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf
   * The number one problem in writing is failure to place the most important information in the sentence's stress position (at points of syntactic closure marked by periods, colons, or semicolons). The number two problem, which is a subset of the first, is that writers typically structure sentences by starting with a main clause and ending with a weaker qualifying clause, which confuses readers about which information to emphasize most.
@@ -87,9 +87,9 @@ Download audio podcast: ![Don't End with Weak Clause Podcast](https://github.com
 
 ## Week 9
 
-![Link Back](infographics/GopenLit18LinkBack.png)
+![Link Back](/infographics/GopenLit18LinkBack.png)
 
-Download audio podcast: ![Backward Link Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Backward_Linking_Moves_Your_Reader_Forward.m4a)
+Download audio podcast: ![Backward Link Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Backward_Linking_Moves_Your_Reader_Forward.m4a)
 
 * Read: #18 The Progress of Thought: To Move Forward, Link Backward https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_18_the_progress_of_thought.pdf
   * Clear writing requires a new sentence to explicitly link backward to the preceding sentence as soon as possible, guiding the reader's thought process. This backward link should target either the grammatical subject (the "whose story" position) or the end of the previous sentence (the "stress position") to maintain the flow of thought and prevent misinterpretation.
@@ -97,23 +97,23 @@ Download audio podcast: ![Backward Link Podcast](https://github.com/cmcntsh/Read
 
 ## Week 10
 
-![Paragraph Issue and Point](infographics/GopenLit19ParagIssuePoint.png)
+![Paragraph Issue and Point](/infographics/GopenLit19ParagIssuePoint.png)
 
-Download audio podcast: ![Five Sentence Lie Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Five-Sentence_Lie_and_Professional_Writing.zip)
+Download audio podcast: ![Five Sentence Lie Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/The_Five-Sentence_Lie_and_Professional_Writing.zip)
 
 * Read: #19 What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
   * The traditional five-sentence "topic sentence" paragraph model is inadequate for professional writing. Instead, a paragraph should begin with a clear statement of the issue (what the paragraph is about) and strategically place the point (why the paragraph was written) either immediately after the issue or at the end of the discussion, where readers expect to find it.
 
-![Three Sentence Issue](infographics/GopenLit20ThreeSentIssue.png)
+![Three Sentence Issue](/infographics/GopenLit20ThreeSentIssue.png)
 
-Download audio podcast: ![Three Sentence Issue Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Three_Sentence_Issues_in_Professional_Writing.m4a)
+Download audio podcast: ![Three Sentence Issue Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Three_Sentence_Issues_in_Professional_Writing.m4a)
 
 * Read: #20 What's at Issue? The Construction of the English Paragraph, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf
   * The issue of a paragraph must be stated up front to guide the reader. In sophisticated professional writing, it often requires more than a single sentence to be adequately expressed, and readers will accept a well-constructed issue that spans one, two, or even three sentences. However, the issue should never spill over into a fourth sentence, as readers typically lose hope, and coherence is lost.
 
-![Connect Sentences](infographics/GopenLit21SentBackLink.png)
+![Connect Sentences](/infographics/GopenLit21SentBackLink.png)
 
-Download audio podcast: ![Clear Prose Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/How_to_Write_Perfectly_Clear_Prose.m4a)
+Download audio podcast: ![Clear Prose Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/How_to_Write_Perfectly_Clear_Prose.m4a)
 
 * Read: #21 Connectivity: The Construction of the English Paragraph, Part III https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_21_connectivity.pdf
   * Paragraph coherence is achieved by controlling the reader's interpretive journey by making sure each sentence connects smoothly to its neighbors. This control is accomplished by leveraging three crucial reader expectations: placing the "whose story" in the subject position, emphasizing the material in the stress position (at the end of a clause or sentence), and providing an explicit link backward to the preceding sentence as soon as possible.
@@ -121,16 +121,16 @@ Download audio podcast: ![Clear Prose Podcast](https://github.com/cmcntsh/Reader
 
 ## Week 11
 
-![Find Paragraph Point](infographics/GopenLit22ParaPoint.png)
+![Find Paragraph Point](/infographics/GopenLit22ParaPoint.png)
 
-Download audio podcast: ![Issue and Point Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Issue_Point_and_Paragraph_Structure.zip)
+Download audio podcast: ![Issue and Point Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Issue_Point_and_Paragraph_Structure.zip)
 
 * Read: #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
   * Readers expect to find a paragraph's point either at the end of the issue statement or at the end of the discussion section—essentially just before the discussion begins or just as it concludes. This challenges the traditional "topic sentence" approach by recognizing that sophisticated writing requires more flexible paragraph structures, in which the issue (what the paragraph concerns) and the point (why it was written) can be strategically placed in different locations depending on the complexity of the thought being developed.
 
-![Point Placement](infographics/GopenLit23FivePointPlace.png)
+![Point Placement](/infographics/GopenLit23FivePointPlace.png)
 
-Download audio podcast: ![Point Placement Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Paragraph_Structure_Controls_Reader_Expectation.m4a)
+Download audio podcast: ![Point Placement Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Paragraph_Structure_Controls_Reader_Expectation.m4a)
 
 * Read: #23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf
   * Placement of a paragraph's explicit point is crucial and depends on its function, with readers having rigid expectations for five different paragraph types. For most medial paragraphs, the point is expected immediately after the issue to capture skimming readers, but for opening and final paragraphs, the point should be saved for the very last sentence to provide a sense of finality and fulfill the document's "contract".
@@ -138,9 +138,9 @@ Download audio podcast: ![Point Placement Podcast](https://github.com/cmcntsh/Re
 
 ## Week 12
 
-![Link Paragraphs](infographics/GopenLit18LinkBack.png)
+![Link Paragraphs](/infographics/GopenLit18LinkBack.png)
 
-Download audio podcast: ![Reader Flow Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Gopen%E2%80%99s_Rules_for_Controlling_Reader_Flow.m4a)
+Download audio podcast: ![Reader Flow Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Gopen%E2%80%99s_Rules_for_Controlling_Reader_Flow.m4a)
 
 * Read: #24 How Paragraphs Speak to Each Other https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_24_--_how_paragraphs_speak_to_each_other.pdf
   * For thought to flow clearly through a document, writers must control the connectivity between paragraphs by ensuring each new paragraph links backward to its predecessor. This backward link should be made as early as possible and target either the beginning (the issue) or the end (the stress position) of the previous paragraph, as these are the easiest points for the reader to recall.
@@ -148,14 +148,14 @@ Download audio podcast: ![Reader Flow Podcast](https://github.com/cmcntsh/Reader
 
 ## Week 13
 
-![Punctuation](infographics/GopenLit15Punctuation.png)
+![Punctuation](/infographics/GopenLit15Punctuation.png)
 
-Download audio podcast: ![Punctuation Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Punctuation_as_Instructions_Stress_and_Connection.zip)
+Download audio podcast: ![Punctuation Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Punctuation_as_Instructions_Stress_and_Connection.zip)
 
 * Read: #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf
   * The four major punctuation marks (period, colon, semi-colon, and comma) are essential tools for writers to explicitly control the reader's interpretation of multi-clause sentences. By using these marks, a writer can send clear reading instructions about two critical reader expectations: which clause is meant to be stressed and what the logical relationship is between the two clauses. The period, colon, and semi-colon indicate full syntactic closure and create stress positions in a sentence. The comma is an ambiguous punctuation mark because the reader must read further in the sentence to determine what role the comma plays in the sentence. (There are multiple grammar rules that govern the use of the comma.) As a result, commas don’t create stress positions in the sentence. On the contrary, most readers interpret information placed just before the comma as less important.
 
-Download audio podcast: ![Em Dash Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/podcasts/raw/refs/heads/main/The_Em_Dash_From_Shameful_Sin_to_Essential_Tool.m4a)
+Download audio podcast: ![Em Dash Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/The_Em_Dash_From_Shameful_Sin_to_Essential_Tool.m4a)
 
 * Read: #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf
   * The M-dash has moved from a "rogue" mark to a respected punctuation tool that provides writers with three powerful new ways to explicitly control the reader's interpretation. It can be used to distinguish lightweight lists, to signal that an interruption is of greater importance (unlike parentheses), and to highlight that the material in the final stress position is the most important information in the sentence.
