@@ -130,6 +130,8 @@ Download audio podcast: ![Issue and Point Podcast](https://github.com/cmcntsh/Re
 
 ![Point Placement](GopenLit23FivePointPlace.png)
 
+Download audio podcast: ![Point Placement Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Paragraph_Structure_Controls_Reader_Expectation.m4a)
+
 * Read: #23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf
   * Placement of a paragraph's explicit point is crucial and depends on its function, with readers having rigid expectations for five different paragraph types. For most medial paragraphs, the point is expected immediately after the issue to capture skimming readers, but for opening and final paragraphs, the point should be saved for the very last sentence to provide a sense of finality and fulfill the document's "contract".
 * Assignment: Select a paragraph from any of the readings this week with at least five sentences (or two paragraphs that total at least five sentences) and highlight the point of the paragraph. (Preferably select a paragraph that makes a point or mentions something you think is important.) Where is the paragraph located in the document? (beginning, middle, end, or name of specific section) How many sentences were in the paragraph? Did the paragraph have a point? Where was it located in the paragraph? Suggest a way to change the paragraph or sentence to align with the goal described in the writing article. (If all the parts of the paragraph already meet the goal, then state that.) Share your analysis paper in the discussion.
