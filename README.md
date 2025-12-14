@@ -16,7 +16,7 @@ I'm trying to help graduate students improve scholarly and academic writing by h
 
 ## Week 2
 
-![Stress Position](GopenLit2StressPosition.png)
+![Stress Position](infographics/GopenLit2StressPosition.png)
 
 Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Writing_How_You_Speak_Is_Sabotage.mp3)
 
@@ -27,7 +27,7 @@ Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/Re
 
 ## Week 3
 
-![Action in Verb](GopenLit3ActionVerb.png)
+![Action in Verb](infographics/GopenLit3ActionVerb.png)
 
 Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Put_the_Action_in_the_Verb.m4a)
 
@@ -37,7 +37,7 @@ Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpecta
 
 ## Week 4
 
-![Whose Story](GopenLit4WhoseStory.png)
+![Whose Story](infographics/GopenLit4WhoseStory.png)
 
 Download audio podcast: ![Focus of Story Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Subject_Is_Your_Narrative_Protagonist.m4a)
 
@@ -47,7 +47,7 @@ Download audio podcast: ![Focus of Story Podcast](https://github.com/cmcntsh/Rea
 
 ## Week 5
 
-![Control Agency](GopenLit7ControlAgency.png)
+![Control Agency](infographics/GopenLit7ControlAgency.png)
 
 Download audio podcast: ![Control Agency Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Hiding_Accountability_With_Nominalization.zip)
 
@@ -57,7 +57,7 @@ Download audio podcast: ![Control Agency Podcast](https://github.com/cmcntsh/Rea
   
 ## Week 6
 
-![Subject Verb Separation](GopenLit8SubVerbSeparation.png)
+![Subject Verb Separation](infographics/GopenLit8SubVerbSeparation.png)
 
 Download audio podcast: ![Subject Verb Separation Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Fixing_the_Hidden_Cost_of_Grammar_Structure.m4a)
 
@@ -67,7 +67,7 @@ Download audio podcast: ![Subject Verb Separation Podcast](https://github.com/cm
 
 ## Week 7
 
-![Passive Voice](GopenLit16PassiveVoice.png)
+![Passive Voice](infographics/GopenLit16PassiveVoice.png)
 
 Download audio podcast: ![Passive Voice Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Passive_Voice_Is_Not_Bad_Advice.m4a)
 
@@ -77,7 +77,7 @@ Download audio podcast: ![Passive Voice Podcast](https://github.com/cmcntsh/Read
 
 ## Week 8
 
-![Clauses](GopenLit21MainSupClauses.png)
+![Clauses](infographics/GopenLit21MainSupClauses.png)
 
 Download audio podcast: ![Don't End with Weak Clause Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Structural_Weight_Hides_Your_Main_Point.m4a)
 
@@ -87,7 +87,7 @@ Download audio podcast: ![Don't End with Weak Clause Podcast](https://github.com
 
 ## Week 9
 
-![Link Back](GopenLit18LinkBack.png)
+![Link Back](infographics/GopenLit18LinkBack.png)
 
 Download audio podcast: ![Backward Link Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Backward_Linking_Moves_Your_Reader_Forward.m4a)
 
@@ -97,21 +97,21 @@ Download audio podcast: ![Backward Link Podcast](https://github.com/cmcntsh/Read
 
 ## Week 10
 
-![Paragraph Issue and Point](GopenLit19ParagIssuePoint.png)
+![Paragraph Issue and Point](infographics/GopenLit19ParagIssuePoint.png)
 
 Download audio podcast: ![Five Sentence Lie Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Five-Sentence_Lie_and_Professional_Writing.zip)
 
 * Read: #19 What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
   * The traditional five-sentence "topic sentence" paragraph model is inadequate for professional writing. Instead, a paragraph should begin with a clear statement of the issue (what the paragraph is about) and strategically place the point (why the paragraph was written) either immediately after the issue or at the end of the discussion, where readers expect to find it.
 
-![Three Sentence Issue](GopenLit20ThreeSentIssue.png)
+![Three Sentence Issue](infographics/GopenLit20ThreeSentIssue.png)
 
 Download audio podcast: ![Three Sentence Issue Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Three_Sentence_Issues_in_Professional_Writing.m4a)
 
 * Read: #20 What's at Issue? The Construction of the English Paragraph, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf
   * The issue of a paragraph must be stated up front to guide the reader. In sophisticated professional writing, it often requires more than a single sentence to be adequately expressed, and readers will accept a well-constructed issue that spans one, two, or even three sentences. However, the issue should never spill over into a fourth sentence, as readers typically lose hope, and coherence is lost.
 
-![Connect Sentences](GopenLit21SentBackLink.png)
+![Connect Sentences](infographics/GopenLit21SentBackLink.png)
 
 Download audio podcast: ![Clear Prose Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/How_to_Write_Perfectly_Clear_Prose.m4a)
 
@@ -121,14 +121,14 @@ Download audio podcast: ![Clear Prose Podcast](https://github.com/cmcntsh/Reader
 
 ## Week 11
 
-![Find Paragraph Point](GopenLit22ParaPoint.png)
+![Find Paragraph Point](infographics/GopenLit22ParaPoint.png)
 
 Download audio podcast: ![Issue and Point Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Issue_Point_and_Paragraph_Structure.zip)
 
 * Read: #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
   * Readers expect to find a paragraph's point either at the end of the issue statement or at the end of the discussion section—essentially just before the discussion begins or just as it concludes. This challenges the traditional "topic sentence" approach by recognizing that sophisticated writing requires more flexible paragraph structures, in which the issue (what the paragraph concerns) and the point (why it was written) can be strategically placed in different locations depending on the complexity of the thought being developed.
 
-![Point Placement](GopenLit23FivePointPlace.png)
+![Point Placement](infographics/GopenLit23FivePointPlace.png)
 
 Download audio podcast: ![Point Placement Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Paragraph_Structure_Controls_Reader_Expectation.m4a)
 
@@ -138,7 +138,7 @@ Download audio podcast: ![Point Placement Podcast](https://github.com/cmcntsh/Re
 
 ## Week 12
 
-![Link Paragraphs](GopenLit18LinkBack.png)
+![Link Paragraphs](infographics/GopenLit18LinkBack.png)
 
 Download audio podcast: ![Reader Flow Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Gopen%E2%80%99s_Rules_for_Controlling_Reader_Flow.m4a)
 
@@ -148,14 +148,14 @@ Download audio podcast: ![Reader Flow Podcast](https://github.com/cmcntsh/Reader
 
 ## Week 13
 
-![Punctuation](GopenLit15Punctuation.png)
+![Punctuation](infographics/GopenLit15Punctuation.png)
 
 Download audio podcast: ![Punctuation Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/Punctuation_as_Instructions_Stress_and_Connection.zip)
 
 * Read: #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf
   * The four major punctuation marks (period, colon, semi-colon, and comma) are essential tools for writers to explicitly control the reader's interpretation of multi-clause sentences. By using these marks, a writer can send clear reading instructions about two critical reader expectations: which clause is meant to be stressed and what the logical relationship is between the two clauses. The period, colon, and semi-colon indicate full syntactic closure and create stress positions in a sentence. The comma is an ambiguous punctuation mark because the reader must read further in the sentence to determine what role the comma plays in the sentence. (There are multiple grammar rules that govern the use of the comma.) As a result, commas don’t create stress positions in the sentence. On the contrary, most readers interpret information placed just before the comma as less important.
 
-Download audio podcast: ![Em Dash Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/The_Em_Dash_From_Shameful_Sin_to_Essential_Tool.m4a)
+Download audio podcast: ![Em Dash Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/podcasts/raw/refs/heads/main/The_Em_Dash_From_Shameful_Sin_to_Essential_Tool.m4a)
 
 * Read: #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf
   * The M-dash has moved from a "rogue" mark to a respected punctuation tool that provides writers with three powerful new ways to explicitly control the reader's interpretation. It can be used to distinguish lightweight lists, to signal that an interruption is of greater importance (unlike parentheses), and to highlight that the material in the final stress position is the most important information in the sentence.
