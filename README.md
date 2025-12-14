@@ -27,7 +27,7 @@ Download audio podcast: ![Stress Position Podcast](https://github.com/cmcntsh/Re
 
 ## Week 3
 
-![Action in Verb](/infographics/GopenLit3ActionVerb.png)
+![Action in Verb](infographics/GopenLit3ActionVerb.png)
 
 Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/Put_the_Action_in_the_Verb.m4a)
 
@@ -37,7 +37,7 @@ Download audio podcast: ![Verb Podcast](https://github.com/cmcntsh/ReaderExpecta
 
 ## Week 4
 
-![Whose Story](/infographics/GopenLit4WhoseStory.png)
+![Whose Story](infographics/GopenLit4WhoseStory.png)
 
 Download audio podcast: ![Focus of Story Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/The_Subject_Is_Your_Narrative_Protagonist.m4a)
 
