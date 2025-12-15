@@ -157,6 +157,8 @@ Download audio podcast: ![Punctuation Podcast](https://github.com/cmcntsh/Reader
 * Read: #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf
   * The four major punctuation marks (period, colon, semi-colon, and comma) are essential tools for writers to explicitly control the reader's interpretation of multi-clause sentences. By using these marks, a writer can send clear reading instructions about two critical reader expectations: which clause is meant to be stressed and what the logical relationship is between the two clauses. The period, colon, and semi-colon indicate full syntactic closure and create stress positions in a sentence. The comma is an ambiguous punctuation mark because the reader must read further in the sentence to determine what role the comma plays in the sentence. (There are multiple grammar rules that govern the use of the comma.) As a result, commas don’t create stress positions in the sentence. On the contrary, most readers interpret information placed just before the comma as less important.
 
+![Em Dash](infographics/GopenLit13EmDash.png)
+
 Download audio podcast: ![Em Dash Podcast](https://github.com/cmcntsh/ReaderExpectationReadingExercises/raw/refs/heads/main/podcasts/The_Em_Dash_From_Shameful_Sin_to_Essential_Tool.m4a)
 
 * Read: #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf
