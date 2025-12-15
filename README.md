@@ -8,7 +8,7 @@ I've created a short list of readings and quick exercises to help someone get mo
 I'm trying to help graduate students improve scholarly and academic writing by having them learn principles taught by George Gopen. Besides having them read this article, what are learning exercises students could do to learn to use the concepts taught in the article? What would be most effective?
 ```
 
-2025 Update #2: I grouped the articles about sentence structure (https://www.youtube.com/watch?v=POw8UKDdaZg) and paragraph organization (https://www.youtube.com/watch?v=WqR0yLl3Qa0) and had NotebookLM create videos. The videos are a nice overview.
+2025 Update #2: I grouped the articles about sentence structure (https://www.youtube.com/watch?v=POw8UKDdaZg) and paragraph organization (https://www.youtube.com/watch?v=WqR0yLl3Qa0) and had NotebookLM create videos. The videos are a nice overview. I also recorded a practice session for a presentation about using AI prompts based on Gopen's articles to analyze writing (https://www.youtube.com/watch?v=2wgNSkNqrH0).
 
 ## Week 1
 
