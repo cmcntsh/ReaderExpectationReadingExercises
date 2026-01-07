@@ -10,7 +10,7 @@ I'm trying to help graduate students improve scholarly and academic writing by h
 
 2025 Update #2: I grouped the articles about sentence structure (https://www.youtube.com/watch?v=POw8UKDdaZg) and paragraph organization (https://www.youtube.com/watch?v=WqR0yLl3Qa0) and had NotebookLM create videos. The videos are a nice overview. I also recorded a practice session for a presentation about using AI prompts based on Gopen's articles to analyze writing (https://www.youtube.com/watch?v=2wgNSkNqrH0).
 
-2025 Update #3: I created a custom GPT to analyze and revise text based on Gopen's articles. It's only available with a University of Utah EDU account. [Gopen Analysis GPT](https://chatgpt.com/g/g-6943fb033d648191b0165224e481e351-gopen-writing-analysis)
+2025 Update #3: I created a custom GPT to analyze and revise text based on Gopen's articles. It's only available with a University of Utah EDU account. [Gopen Analysis GPT](https://chatgpt.com/g/g-6943fb033d648191b0165224e481e351-gopen-writing-analysis) The University of Utah does not allow us to share custom GPTs with each other yet. Here is a demo video and resources needed to create the custom GPT yourself. [Create a custom GPT](https://github.com/cmcntsh/CreateCustomGPTTraining)
 
 ## Week 1
 
